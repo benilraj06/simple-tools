@@ -1,0 +1,16 @@
+{
+  "name": "Simple Tools",
+  "short_name": "Tools",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#42b983",
+  "description": "A simple Vue app with tools like MD5 generator.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+      "type": "image/x-icon"
+    }
+  ]
+}
